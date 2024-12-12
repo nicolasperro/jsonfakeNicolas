@@ -1,5 +1,5 @@
 {
-  "organizacaoArbitragem": [
+  "organizacoesArbitragem": [
     {
       "id": 1,
       "nomeOrganizacao": "Confederação Nacional de Arbitragem"
@@ -13,7 +13,7 @@
       "nomeOrganizacao": "Liga Internacional de Arbitragem"
     }
   ],
-  "arbitro": [
+  "arbitros": [
     {
       "id": 1,
       "nomeArbitro": "Carlos Silva",
@@ -30,7 +30,7 @@
       "dataNascimento": "1983-11-30"
     }
   ],
-  "funcionario": [
+  "funcionarios": [
     {
       "id": 1,
       "nome": "Ana Paula",
