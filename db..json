@@ -1,0 +1,53 @@
+{
+  "organizacaoArbitragem": [
+    {
+      "id": 1,
+      "nomeOrganizacao": "Confederação Nacional de Arbitragem"
+    },
+    {
+      "id": 2,
+      "nomeOrganizacao": "Associação Brasileira de Juízes"
+    },
+    {
+      "id": 3,
+      "nomeOrganizacao": "Liga Internacional de Arbitragem"
+    }
+  ],
+  "arbitro": [
+    {
+      "id": 1,
+      "nomeArbitro": "Carlos Silva",
+      "dataNascimento": "1985-03-12"
+    },
+    {
+      "id": 2,
+      "nomeArbitro": "Mariana Souza",
+      "dataNascimento": "1990-07-25"
+    },
+    {
+      "id": 3,
+      "nomeArbitro": "João Oliveira",
+      "dataNascimento": "1983-11-30"
+    }
+  ],
+  "funcionario": [
+    {
+      "id": 1,
+      "nome": "Ana Paula",
+      "cpf": "123.456.789-00",
+      "email": "ana.paula@email.com"
+    },
+    {
+      "id": 2,
+      "nome": "Roberto Lima",
+      "cpf": "987.654.321-11",
+      "email": "roberto.lima@email.com"
+    },
+    {
+      "id": 3,
+      "nome": "Fernanda Alves",
+      "cpf": "456.789.123-22",
+      "email": "fernanda.alves@email.com"
+    }
+  ]
+}
