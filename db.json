@@ -35,19 +35,19 @@
       "id": 1,
       "nome": "Ana Paula",
       "cpf": "123.456.789-00",
-      "email": "ana.paula@email.com"
+      "emailContato": "ana.paula@email.com"
     },
     {
       "id": 2,
       "nome": "Roberto Lima",
       "cpf": "987.654.321-11",
-      "email": "roberto.lima@email.com"
+      "emailContato": "roberto.lima@email.com"
     },
     {
       "id": 3,
       "nome": "Fernanda Alves",
       "cpf": "456.789.123-22",
-      "email": "fernanda.alves@email.com"
+      "emailContato": "fernanda.alves@email.com"
     }
   ],
   "lutas": [
