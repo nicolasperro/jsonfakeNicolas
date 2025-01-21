@@ -35,19 +35,22 @@
       "id": 1,
       "nome": "Ana Paula",
       "cpf": "123.456.789-00",
-      "emailContato": "ana.paula@email.com"
+      "emailContato": "ana.paula@email.com",
+      "numeroContato": "21992018227"
     },
     {
       "id": 2,
       "nome": "Roberto Lima",
       "cpf": "987.654.321-11",
-      "emailContato": "roberto.lima@email.com"
+      "emailContato": "roberto.lima@email.com",
+      "numeroContato": "24992723881"
     },
     {
       "id": 3,
       "nome": "Fernanda Alves",
       "cpf": "456.789.123-22",
-      "emailContato": "fernanda.alves@email.com"
+      "emailContato": "fernanda.alves@email.com",
+      "numeroContato": "22992018992"
     }
   ],
   "lutas": [
