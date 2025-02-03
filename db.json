@@ -34,21 +34,21 @@
     {
       "id": 1,
       "nome": "Ana Paula",
-      "cpf": "123.456.789-00",
+      "cpf": "12345678900",
       "emailContato": "ana.paula@email.com",
       "numeroContato": "21992018227"
     },
     {
       "id": 2,
       "nome": "Roberto Lima",
-      "cpf": "987.654.321-11",
+      "cpf": "98765432111",
       "emailContato": "roberto.lima@email.com",
       "numeroContato": "24992723881"
     },
     {
       "id": 3,
       "nome": "Fernanda Alves",
-      "cpf": "456.789.123-22",
+      "cpf": "45678912322",
       "emailContato": "fernanda.alves@email.com",
       "numeroContato": "22992018992"
     }
