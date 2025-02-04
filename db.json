@@ -54,8 +54,8 @@
     }
   ],
   "lutas": [
-    { "id": 1, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1 },
-    { "id": 2, "idEvento": 1, "idAtleta01": 3, "idAtleta02": 4, "idAtletaVencedor": 4, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1 },
-    { "id": 3, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Mosca", "rounds": 3, "idModalidade": 1 }
+    { "id": 1, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1, "idArbitro": 1 },
+    { "id": 2, "idEvento": 1, "idAtleta01": 3, "idAtleta02": 4, "idAtletaVencedor": 4, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1, "idArbitro": 1 },
+    { "id": 3, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Mosca", "rounds": 3, "idModalidade": 1, "idArbitro": 2 }
 ]
 }
