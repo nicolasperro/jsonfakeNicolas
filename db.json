@@ -54,8 +54,8 @@
     }
   ],
   "lutas": [
-    { "id": 1, "evento": "UFC 290", "atleta1": "atleta01", "atleta2": "atleta02","vencedor": "atleta01", "pesoCategoria": "Peso Pena", "rounds": 5, "modalidade": "MMA" },
-    { "id": 2, "evento": "Bellator 300", "atleta1": "atleta03", "atleta2": "atleta04", "vencedor": "atleta04", "pesoCategoria": "Peso Pena", "rounds": 5, "modalidade": "MMA" },
-    { "id": 3, "evento": "ONE Fight Night 10", "atleta1": "atleta01", "atleta2": "atleta04", "vencedor": "atleta01", "pesoCategoria": "Peso Mosca", "rounds": 3, "modalidade": "Muay Thai" }
+    { "id": 1, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1 },
+    { "id": 2, "idEvento": 1, "idAtleta01": 3, "idAtleta02": 4, "idAtletaVencedor": 4, "pesoCategoria": "Peso Pena", "rounds": 5, "idModalidade": 1 },
+    { "id": 3, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1, "pesoCategoria": "Peso Mosca", "rounds": 3, "idModalidade": 1 }
 ]
 }
