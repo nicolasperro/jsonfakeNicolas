@@ -17,17 +17,23 @@
     {
       "id": 1,
       "nomeArbitro": "Carlos Silva",
-      "dataNascimento": "1985-03-12"
+      "dataNascimento": "1985-03-12",
+      "idOrganizacao": 1,
+      "nomeOrganizacao": "organizacao01"
     },
     {
       "id": 2,
       "nomeArbitro": "Mariana Souza",
       "dataNascimento": "1990-07-25"
+      "idOrganizacao": 2,
+      "nomeOrganizacao": "organizacao02"
     },
     {
       "id": 3,
       "nomeArbitro": "João Oliveira",
       "dataNascimento": "1983-11-30"
+      "idOrganizacao": 3,
+      "nomeOrganizacao": "organizacao03"
     }
   ],
   "funcionarios": [
