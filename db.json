@@ -72,7 +72,7 @@
       "nomeModalidade": "modalidade01" },
     { "id": 3, "idEvento": 1, "idAtleta01": 1, "idAtleta02": 2, "idAtletaVencedor": 1,
       "pesoCategoria": "Peso Mosca", "rounds": 3, "idModalidade": 1, "idArbitro": 2,
-      "nomeArbitro": "arbitro01", "nomeEvento": "evento01", "nomeAtleta01": "atleta01",
+      "nomeArbitro": "arbitro01", "nomeEvento": "evento02", "nomeAtleta01": "atleta01",
       "nomeAtleta02": "atleta02", "nomeAtletaVencedor": "atletaVencdor",
       "nomeModalidade": "modalidade01" }
   ]
